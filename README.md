@@ -1,5 +1,5 @@
 
-# Upcoming Event on June 1, 2019
+# Upcoming Hackathon – June 1st!
 
 Spring is here, so let's have a hackathon!
 
@@ -38,4 +38,5 @@ Please reach out to [hack401@googlegroups.com](mailto:hack401@googlegroups.com) 
 
 **hack401** seeks to build awareness of the latest tech, access and opportunities to learn and make, and create connections in our very active community.
 
-**hack401** is made possible with with a coalition of partners including [Citizens Bank](), [Institute of Entrepreneurship & Leadership (IEL)](), [Rhode Island Virtual Reality (RIVR)](), [STEAM Box]() and [Microsoft Philanthropies TEALS]().
+**hack401** is made possible with with a coalition of partners including [Citizens Bank](https://www.citizensbank.com), [Institute of Entrepreneurship & Leadership (IEL)](https://ieleadership.org/
+), [Rhode Island Virtual Reality (RIVR)](https://www.facebook.com/rhodeislandvr/), [STEAM Box](https://www.facebook.com/STEAMBoxRI/) and [Microsoft Philanthropies TEALS](https://www.tealsk12.org).
