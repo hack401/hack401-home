@@ -3,7 +3,7 @@
 
 Spring is here, so let's have a hackathon!
 
-![temporary logo](https://tbd "monkey logo")
+![temporary logo](http://hack401.org/assets/img/Hack401MonkeyingAround.jpg "monkey logo" width=200)
 
 *June 1, 2019 – 10:00a-7:00p*
 *Infosys - Downcity Providence*
