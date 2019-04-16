@@ -1,7 +1,41 @@
-# hack401
 
-Upcoming event – June 1, 2019
+# Upcoming Event on June 1, 2019
 
-More details coming soon! 
+Spring is here, so let's have a hackathon!
 
-If you have any questions, please reach out to [hack401@googlegroups.com](mailto:hack401@googlegroups.com)!
+![temporary logo](https://tbd "monkey logo")
+
+*June 1, 2019 – 10:00a-7:00p*
+*Infosys - Downcity Providence*
+*Virtual Reality / Augmented Reality and Music Technology*
+*FREE and ACCESSIBLE for ALL participating youth*
+
+*Please note:* Attendance will be coordinated directly with educational organizations as the event approaches.
+
+
+## Request for Workshop Proposals
+
+The goal of hack401 is to encourage participation in computer science by showcasing fun and engaging projects on different topics. For this first event, we are seeking workshop proposals around the themes of **virtual reality / augmented reality and music technology**.
+
+Structured workshops can be invaluable when helping create an engaging and inclusive environment for people of varying abilities and interpersonal connections. A well-planned workshop sets its participants on a course toward learning and delivering a tangible outcome for their time invested. 
+
+### Logistics
+
+- Workshop leaders will need to be available from 9:30a-7:30p
+- The submission window for workshop proposals is open through **Monday May 6, 2019** (subject to submission volume)
+- We intend to accept 5-10 workshops for this event. Acceptance criteria is based on topic relevance, diversity between workshops, presenter experience, accessibility to participants, etc.
+- You will work closely with a group of 5-15 high school aged participants. Volunteers may be available as needed.
+- If your workshop is not selected for this event, don't fret! We plan on holding more hackathons in the future.
+
+### Submit a proposal 
+
+Do you have experience in VR/AR or music technology? Do you have an idea for a workshop? Submit it [via this form](https://forms.gle/v9W1HEkYh7R7HtS59) now!
+
+Please reach out to [hack401@googlegroups.com](mailto:hack401@googlegroups.com) with any questions or ideas!
+
+
+# About
+
+**hack401** seeks to build awareness of the latest tech, access and opportunities to learn and make, and create connections in our very active community.
+
+**hack401** is made possible with with a coalition of partners including [Citizens Bank](), [Institute of Entrepreneurship & Leadership (IEL)](), [Rhode Island Virtual Reality (RIVR)](), [STEAM Box]() and [Microsoft Philanthropies TEALS]().
