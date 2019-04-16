@@ -1,14 +1,14 @@
 
 # Upcoming Hackathon – June 1st!
 
-Spring is here, so let's have a hackathon!
+Spring is here, let's have a hackathon!
 
 ![temporary logo](assets/img/Hack401MonkeyingAround.jpg)
 
-*June 1, 2019 – 10:00a-7:00p*
-*Infosys - Downcity Providence*
-*Virtual Reality / Augmented Reality and Music Technology*
-*FREE and ACCESSIBLE for ALL participating youth*
+- *June 1, 2019 – 10:00a-7:00p*
+- *Infosys - Downcity Providence*
+- *Virtual Reality / Augmented Reality and Music Technology*
+- *FREE and ACCESSIBLE for ALL participating youth*
 
 *Please note:* Attendance will be coordinated directly with educational organizations as the event approaches.
 
@@ -19,19 +19,22 @@ The goal of hack401 is to encourage participation in computer science by showcas
 
 Structured workshops can be invaluable when helping create an engaging and inclusive environment for people of varying abilities and interpersonal connections. A well-planned workshop sets its participants on a course toward learning and delivering a tangible outcome for their time invested. 
 
-### Logistics
+### Submissions
 
-- Workshop leaders will need to be available from 9:30a-7:30p
-- The submission window for workshop proposals is open through **Monday May 6, 2019** (subject to submission volume)
-- We intend to accept 5-10 workshops for this event. Acceptance criteria is based on topic relevance, diversity between workshops, presenter experience, accessibility to participants, etc.
-- You will work closely with a group of 5-15 high school aged participants. Volunteers may be available as needed.
-- If your workshop is not selected for this event, don't fret! We plan on holding more hackathons in the future.
+Do you have experience in VR/AR or music technology? Do you have an idea for a workshop? 
 
-### Submit a proposal 
-
-Do you have experience in VR/AR or music technology? Do you have an idea for a workshop? Submit it [via this form](https://forms.gle/v9W1HEkYh7R7HtS59) now!
+**Submit it [via this form](https://forms.gle/v9W1HEkYh7R7HtS59) now!**
 
 Please reach out to [hack401@googlegroups.com](mailto:hack401@googlegroups.com) with any questions or ideas!
+
+
+### Details
+
+- Workshop leaders will need to be available from 9:30a-7:30p on June 1st
+- The submission window for workshop proposals is open through **Monday May 6, 2019** (subject to submission volume)
+- We intend to accept **5-10 workshops** for this event. Acceptance criteria is based on topic relevance, diversity between workshops, presenter experience, accessibility to participants, etc.
+- You will work closely with a group of **5-15 high school aged participants**. Volunteers may be available as needed.
+- If your workshop is not selected for this event, don't fret! We plan on holding more hackathons in the future.
 
 
 # About
