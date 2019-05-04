@@ -6,7 +6,7 @@ Spring is here, let's have a hackathon!
 ![temporary logo](assets/img/Hack401MonkeyingAround.jpg)
 
 - *June 1, 2019 – 10:00a-7:00p*
-- *Infosys - Downcity Providence*
+- *[Infosys](https://www.google.com/maps/place/75+Fountain+St,+Providence,+RI+02902/@41.8243372,-71.4177514,17z/data=!3m1!4b1!4m5!3m4!1s0x89e44512321b74cd:0x1686f9ddb57cd98c!8m2!3d41.8243372!4d-71.4155574) - Downcity Providence*
 - *Virtual Reality / Augmented Reality and Music Technology*
 - *FREE and ACCESSIBLE for ALL participating youth*
 
