@@ -13,7 +13,7 @@ Spring is here, let's have a hackathon!
 *Please note:* Attendance will be coordinated directly with educational organizations as the event approaches.
 
 
-## Workshops!
+## Workshops
 
 The goal of hack401 is to encourage participation in computer science by showcasing fun and engaging projects on different topics. Structured workshops can be invaluable when helping create an engaging and inclusive environment for people of varying abilities and interpersonal connections. A well-planned workshop sets its participants on a course toward learning and delivering a tangible outcome for their time invested. For this first event, we are hosting four workshops around the themes of **virtual reality and music technology**.
 
@@ -70,7 +70,7 @@ hack401 is exploring two themes, Music Technology and Virtuality Reality. The we
 YOU DO! 
 
 
-# About
+## About
 
 **hack401** seeks to build awareness of the latest tech, access and opportunities to learn and make, and create connections in our very active community.
 
@@ -78,13 +78,13 @@ YOU DO!
 ), [Rhode Island Virtual Reality (RIVR)](https://www.facebook.com/rhodeislandvr/), [STEAM Box](https://www.facebook.com/STEAMBoxRI/) and [Microsoft Philanthropies TEALS](https://www.tealsk12.org).
 
 
-## Getting Involved!
+### Getting Involved!
 
 You've heard about what we're doing. You love what you're experiencing. You and/or your organization want to sponsor/host/lead a workshop. Please [reach out](mailto:hack401@googlegroups.com) with your information and we'll be in touch:
 
-```First and Last Name:
-Organization:
-Interest in: Workshop lead, sponsor, hosting, other?!```
+* First and Last Name
+* Organization
+* Your interests, e.g. workshop lead, sponsor, hosting, or something else
 
 Our vision is for hack401 to continue to thrive as a regular community run event, building awareness and access to the latest tech, access and opportunities to learn and make, and create connections in our very active community.
 

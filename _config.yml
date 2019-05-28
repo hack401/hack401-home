@@ -2,3 +2,14 @@ theme: jekyll-theme-dinky
 
 title: hack401
 description: Using the latest tech to create pride in place
+
+menu:
+  - url: "#workshops"
+    value: Workshops
+  - url:  "#schedule"
+    value: Schedule
+  - url:  "#faq"
+    value: FAQ
+  - url:  "#about"
+    value: About
+  
