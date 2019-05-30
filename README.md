@@ -77,17 +77,6 @@ YOU DO!
 **hack401** is made possible with with a coalition of partners including [Citizens Bank](https://www.citizensbank.com), [Institute of Entrepreneurship & Leadership (IEL)](https://ieleadership.org/
 ), [Rhode Island Virtual Reality (RIVR)](https://www.facebook.com/rhodeislandvr/), [STEAM Box](https://www.facebook.com/STEAMBoxRI/) and [Microsoft Philanthropies TEALS](https://www.tealsk12.org).
 
-### Our Sponsors
-
-hack401 is made possible by our generous sponsors and collaborators!
-
-<img src="assets/img/infosys.jpg" alt="Infosys" width="320">
-<img src="assets/img/citizens.png" alt="Citizen's Bank" width="320">
-<img src="assets/img/teals.png" alt="Microsoft TEALS" width="320">
-<img src="assets/img/iel.png" alt="IEL" width="320">
-<img src="assets/img/rivr.png" alt="RIVR" width="320">
-<img src="assets/img/steambox.jpg" alt="Steam Box" width="320">
-
 ### Getting Involved!
 
 You've heard about what we're doing. You love what you're experiencing. You and/or your organization want to sponsor/host/lead a workshop. Please [reach out](mailto:hack401@googlegroups.com) with your information and we'll be in touch:
@@ -99,3 +88,14 @@ You've heard about what we're doing. You love what you're experiencing. You and/
 Our vision is for hack401 to continue to thrive as a regular community run event, building awareness and access to the latest tech, access and opportunities to learn and make, and create connections in our very active community.
 
 Thanks so much for your interest! 
+
+### Our Sponsors
+
+hack401 is made possible by our generous sponsors and collaborators!
+
+<img src="assets/img/infosys.jpg" alt="Infosys" width="320">
+<img src="assets/img/citizens.png" alt="Citizen's Bank" width="320">
+<img src="assets/img/teals.png" alt="Microsoft TEALS" width="320">
+<img src="assets/img/iel.png" alt="IEL" height="90">
+<img src="assets/img/rivr.png" alt="RIVR" height="90">
+<img src="assets/img/steambox.jpg" alt="Steam Box" height="90">
