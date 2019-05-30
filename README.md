@@ -77,6 +77,16 @@ YOU DO!
 **hack401** is made possible with with a coalition of partners including [Citizens Bank](https://www.citizensbank.com), [Institute of Entrepreneurship & Leadership (IEL)](https://ieleadership.org/
 ), [Rhode Island Virtual Reality (RIVR)](https://www.facebook.com/rhodeislandvr/), [STEAM Box](https://www.facebook.com/STEAMBoxRI/) and [Microsoft Philanthropies TEALS](https://www.tealsk12.org).
 
+### Our Sponsors
+
+hack401 is made possible by our generous sponsors and collaborators!
+
+[Infosys](/assets/img/infosys.png "Infosys")
+[Citizen's Bank](/assets/img/citizens.png "Citizen's Bank")
+[Microsoft TEALS](/assets/img/teals.png "Microsoft TEALS")
+[IEL](/assets/img/iel.png "IEL")
+[RIVR](/assets/img/rivr.png "RIVR")
+[Steam Box](/assets/img/steambox.png "Steam Box")
 
 ### Getting Involved!
 
