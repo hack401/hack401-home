@@ -40,12 +40,12 @@ Please reach out to [hack401@googlegroups.com](mailto:hack401@googlegroups.com) 
 
 | 9:00a | Check-in  |
 | 10:00a  |  Welcome Remarks  |
-| 10:15a  | Morning Session  <br> VR-A1 – Basics of Photogrammetry <br> VR-B1 – Creating Virtual Tours  <br>  MT-A1 – Drum Programming and Recording <br> MT-B1 – Synthesizing Sounds  |
+| 10:15a  | Morning Hacking <br> VR-A1 – Basics of Photogrammetry <br> VR-B1 – Creating Virtual Tours  <br>  MT-A1 – Drum Programming and Recording <br> MT-B1 – Synthesizing Sounds  |
 | 12:00p | LUNCH  |
-| 1:00p  | Afternoon Session  <br> VR-A2 – WebVR Basics  <br> VR-B2 – Sharing Virtual Tours via VR & Web <br>  MT-A2 – Looping and Arranging <br> MT-B2 – Digital Audio Effects  |
+| 1:00p  | Afternoon Hacking <br> VR-A2 – WebVR Basics  <br> VR-B2 – Sharing Virtual Tours via VR & Web <br>  MT-A2 – Looping and Arranging <br> MT-B2 – Digital Audio Effects  |
 | 3:00p | BREAK  |
-| 3:15p | Group Projects  |
-| 5:00p | Presentations  |
+| 3:15p | Group Hacking  |
+| 5:00p | Demos!  |
 | 6:30p | Closing Remarks and Goodbyes  |
 
 
