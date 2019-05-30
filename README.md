@@ -81,12 +81,12 @@ YOU DO!
 
 hack401 is made possible by our generous sponsors and collaborators!
 
-[Infosys](/assets/img/infosys.png "Infosys")
-[Citizen's Bank](/assets/img/citizens.png "Citizen's Bank")
-[Microsoft TEALS](/assets/img/teals.png "Microsoft TEALS")
-[IEL](/assets/img/iel.png "IEL")
-[RIVR](/assets/img/rivr.png "RIVR")
-[Steam Box](/assets/img/steambox.png "Steam Box")
+[Infosys](assets/img/infosys.jpg "Infosys")
+[Citizen's Bank](assets/img/citizens.png "Citizen's Bank")
+[Microsoft TEALS](assets/img/teals.png "Microsoft TEALS")
+[IEL](assets/img/iel.png "IEL")
+[RIVR](assets/img/rivr.png "RIVR")
+[Steam Box](assets/img/steambox.jpg "Steam Box")
 
 ### Getting Involved!
 
